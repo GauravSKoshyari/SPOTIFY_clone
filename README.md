@@ -4,10 +4,6 @@ https://spotify-clone-gsk.netlify.app/
 
 Spotify clone built using vanilla js, vite and tailwind css.
 
-# DN3-SpotifyClone
-
-Spotify clone built using vanilla js, vite and tailwind css.
-
 # User Registeration
 
 By default only those users which are added by you in the developer dashboard are allowed to access the app.
