@@ -2,6 +2,9 @@
 
 https://spotify-clone-gsk.netlify.app/
 
+use following details to login- 
+email: gsk162001@gmail.com ; password: Gaur@123
+
 Spotify clone built using vanilla js, vite and tailwind css.
 
 # User Registeration
